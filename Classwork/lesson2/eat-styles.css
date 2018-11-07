@@ -1,0 +1,11 @@
+ul {
+  color: pink;
+}
+
+a{
+  color: blue;
+}
+
+a:hover{
+  boarder-color: red;
+}
